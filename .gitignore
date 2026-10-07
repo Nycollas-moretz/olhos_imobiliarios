@@ -1,0 +1,7 @@
+.output/
+
+.img/
+
+.venv/
+
+__pycache__/
